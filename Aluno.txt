@@ -1,0 +1,6 @@
+ - Nome:Gabriel Fernandes De Oliveira
+
+ - Curso: AMS 
+
+ - O que espera aprender com GitHub:
+	aprender muitas coisas e novidades usando, ainda mais gitlab
